@@ -6,6 +6,6 @@ package com.nm.controller;
  */
 public class PeopleController {
     public void queryRecord(){
-        System.out.println("控制器");
+        System.out.println("付费查询控制器");
     }
 }
